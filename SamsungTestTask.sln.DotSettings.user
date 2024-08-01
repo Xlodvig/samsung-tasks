@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25d8e569_002D20c2_002D424c_002Daa4c_002Dfa49e7ff0ce5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CompressionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1DF89C14-DE19-4C32-A583-B627A1EB2B70::net8.0::SamsungTestTask.CompressionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1DF89C14-DE19-4C32-A583-B627A1EB2B70::net8.0::SamsungTestTask.WaysCounterTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1DF89C14-DE19-4C32-A583-B627A1EB2B70::net8.0::SamsungTestTask.WaysCounterTests.CountMethod_WithGivenSteps_ReturnExpectedResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1DF89C14-DE19-4C32-A583-B627A1EB2B70::net8.0::SamsungTestTask.WaysCounterTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
